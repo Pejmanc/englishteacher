@@ -450,7 +450,6 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.png) no-repeat top center;
   background-position: center;
   background-size: cover;
 }
@@ -498,7 +497,7 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .banner_content h3:after {
-  content: '';
+  content: "";
   width: 410px;
   height: 2px;
   position: absolute;
