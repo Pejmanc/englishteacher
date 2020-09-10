@@ -2267,6 +2267,11 @@ h6 {
   }
 }
 
+.features_area p {
+  text-justify: distribute;
+  color: red;
+}
+
 .feature_item {
   padding: 45px 25px;
   text-align: center;
@@ -2373,7 +2378,7 @@ h6 {
 }
 
 .client-info:before {
-  content: '';
+  content: "";
   position: absolute;
   top: -25px;
   left: -50px;
